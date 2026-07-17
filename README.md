@@ -6,10 +6,10 @@
 
 ## 文章
 
-| 日期 | 标题 |
-|---|---|
-| 2026-07-16 | [LangGraph 手写 ReAct vs create_agent：一次工程权衡](./articles/2026-07-16-langgraph-handwritten-react-vs-create-agent.md) |
-| 2026-07-16 | [DeepSpeed ZeRO 1/2/3 与 Megatron-LM TP/PP：大模型分布式训练的显存账本](./articles/2026-07-16-deepspeed-zero-megatron-tp-pp.md) |
+| 日期 | 标题 | 掘金 |
+|---|---|---|
+| 2026-07-16 | [LangGraph 手写 ReAct vs create_agent：一次工程权衡](./articles/2026-07-16-langgraph-handwritten-react-vs-create-agent.md) | [链接](https://juejin.cn/post/7662951063264460827) |
+| 2026-07-16 | [DeepSpeed ZeRO 1/2/3 与 Megatron-LM TP/PP：大模型分布式训练的显存账本](./articles/2026-07-16-deepspeed-zero-megatron-tp-pp.md) | [链接](https://juejin.cn/post/7662973635746054153) |
 
 ## 关注方向
 
